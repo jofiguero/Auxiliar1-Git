@@ -9,4 +9,5 @@ class Tarea:
 
     def estaLista(self):
         a = 2**64
+        b= 2**100
         return self.listo*a
